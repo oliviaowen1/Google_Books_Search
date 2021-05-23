@@ -43,19 +43,24 @@ Once on this page you can view all of the books youve saved.
 The screenshots below show the following:
 
 The home page:
-![home](https://raw.githubusercontent.com/oliviaowen1/React_Portfolio/main/src/assets/portfolio-home.png)
+![home](https://raw.githubusercontent.com/oliviaowen1/Google_Books_Search/main/assets/home.png)
 
 
-The portfolio page:
+The Search bar:
 
-![portfolio](https://raw.githubusercontent.com/oliviaowen1/React_Portfolio/main/src/assets/portfolio-work.png)
-
-
-The contact page:
-
-![contact](https://raw.githubusercontent.com/oliviaowen1/React_Portfolio/main/src/assets/portfolio-contact.png)
+![portfolio](https://raw.githubusercontent.com/oliviaowen1/Google_Books_Search/main/assets/search.png)
 
 
+The search results :
+
+![contact](https://raw.githubusercontent.com/oliviaowen1/Google_Books_Search/main/assets/results.png)
+
+
+The saved page :
+
+![contact](https://raw.githubusercontent.com/oliviaowen1/Google_Books_Search/main/assets/saved.png)
+
+**Disclaimer: If page styling on images appear different on screenshots to Heroku application, please note that Heroku was taking hours to update each commit. Please see this is my application by viewing the address bar**
 
 
 # License
