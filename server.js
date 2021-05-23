@@ -21,7 +21,10 @@ mongoose.connect(
   process.env.MONGODB_URI || "mongodb://localhost:27017/google_book_search",
   {
     useCreateIndex: true,
-    useNewUrlParser: true
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useFindAndModify: false
+
   }
 );
 
