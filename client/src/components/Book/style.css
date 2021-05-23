@@ -1,5 +1,6 @@
 .btn-container {
   float: right;
+  background-color: pink !important;
 }
 
 @media (max-width: 767px) {
